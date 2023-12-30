@@ -11,14 +11,11 @@ bluespec/chisel
 
 goal:
 (1) learning stage: complete course exs
-
-(2) practice stage：
-`
+(2) practice stage:
     level 1:  5 stages base pipeline processor with on chip static ram
     level 2:  5 stages pipeline processor with with cache, and external ram, focus on cache design
     level 3:  5 stages pipeline processor with branch prediction
     level 4:  5 stages pipeline processor with interrupts and exceptions
-`
 
 next plan:
   ..........
